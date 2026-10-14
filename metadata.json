@@ -1,0 +1,6 @@
+{
+  "name": "Bipin Chapagain - macOS Portfolio OS",
+  "description": "Interactive macOS-style operating system portfolio simulator for Bipin Chapagain - Creative UI/UX Designer, Vibe Coder & SMM Strategist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
